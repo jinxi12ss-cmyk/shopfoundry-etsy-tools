@@ -33,9 +33,9 @@ Output:
 
 "Generate 13 Etsy tags optimized for search volume and low competition"
 
-## 🧪 Demo
+## 🌐 Live Tool
 
-Coming soon: https://shopfoundry.app
+https://shopfoundry.app
 
 ## 📌 Related Tools
 
