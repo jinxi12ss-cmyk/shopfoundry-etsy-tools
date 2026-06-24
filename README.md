@@ -20,6 +20,13 @@ Input:
 Output:
 - Ready-to-paste Etsy listing content
 
+## 📚 Etsy SEO Knowledge Areas Covered
+
+- Etsy keyword research strategy
+- Etsy listing optimization guide
+- Etsy tags best practices
+- Etsy title character limits
+- 
 ## ⚙️ Example Prompts
 
 ### Title Generator Prompt
